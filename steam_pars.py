@@ -47,7 +47,7 @@ def collect_links_from_page(url):
             if href:
                 links.add(href.split("?")[0])
     except Exception as e:
-        print(f"⚠️ Ошибка страницы {url}: {e}")
+        print(f"Ошибка страницы {url}: {e}")
     finally:
         driver.quit()
     return list(links)

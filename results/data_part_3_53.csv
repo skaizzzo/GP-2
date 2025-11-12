@@ -1,0 +1,340 @@
+title,release,price,url,error
+Enter the Gungeon,5 апр. 2016 г.,550 руб.,https://store.steampowered.com/app/311690/Enter_the_Gungeon/,
+梦幻旋律,23 окт. 2024 г.,165 руб.,https://store.steampowered.com/app/3115500/_/,
+BIG LOOT,21 авг. 2025 г.,334 руб.,https://store.steampowered.com/app/3116730/BIG_LOOT/,
+Tempest Tower,19 авг. 2025 г.,750 руб.,https://store.steampowered.com/app/3123800/Tempest_Tower/,
+101 Cats Hidden in Shanghai,6 авг. 2024 г.,21 руб.,https://store.steampowered.com/app/3118580/101_Cats_Hidden_in_Shanghai/,
+兽人领地 Orcdom,11 сен. 2025 г.,280 руб.,https://store.steampowered.com/app/3116120/_Orcdom/,
+Chroma Zero,12 дек. 2024 г.,444 руб.,https://store.steampowered.com/app/3121470/Chroma_Zero/,
+,,,https://store.steampowered.com/app/3126620/Phantom_Relics/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+Ice World,16 ноя. 2024 г.,42 руб.,https://store.steampowered.com/app/3126470/Ice_World/,
+Kiosk,29 янв. 2025 г.,165 руб.,https://store.steampowered.com/app/3126330/Kiosk/,
+,,,https://store.steampowered.com/app/3127270/101_Cats_Hidden_in_India/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/312980/Graviteam_Tactics_MiusFront/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3128220/Nerd_Simulator/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3130800/Find_My_Frogs/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/313120/Stranded_Deep/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+Monument Valley 3,22 июл. 2025 г.,550 руб.,https://store.steampowered.com/app/3132930/Monument_Valley_3/,
+Gold Gold Adventure Gold,31 июл. 2025 г.,999 руб.,https://store.steampowered.com/app/3133650/Gold_Gold_Adventure_Gold/,
+Питер Пэн: Поиск Предметов,2 янв. 2025 г.,320 руб.,https://store.steampowered.com/app/3139070/Piter_Pen_Poisk_Predmetov/,
+Blitzkrieg Anthology,28 мар. 2003 г.,129 руб.,https://store.steampowered.com/app/313480/Blitzkrieg_Anthology/,
+Wordatro!,23 июн. 2025 г.,"382,17 руб.",https://store.steampowered.com/app/3140120/Wordatro/,
+C.A.S.T. (CHERNOZEM ANOMALY STRIKE TEAM),14 июл. 2025 г.,280 руб.,https://store.steampowered.com/app/3140620/CAST_CHERNOZEM_ANOMALY_STRIKE_TEAM/,
+Echoes of the Architects,25 июл. 2025 г.,460 руб.,https://store.steampowered.com/app/3136490/Echoes_of_the_Architects/,
+Команда уборки Backrooms (Backrooms Cleanup Crew),16 апр. 2025 г.,385 руб.,https://store.steampowered.com/app/3140990/Komanda_uborki_Backrooms_Backrooms_Cleanup_Crew/,
+100 Italy Cats,22 июн. 2025 г.,61 руб.,https://store.steampowered.com/app/3141130/100_Italy_Cats/,
+Of Lies and Rain,4 ноя. 2025 г.,1300 руб.,https://store.steampowered.com/app/3141330/Of_Lies_and_Rain/,
+Битвы монстров,15 мая. 2025 г.,385 руб.,https://store.steampowered.com/app/3141720/Bitvy_monstrov/,
+台北仲夏夜之梦,5 янв. 2025 г.,350 руб.,https://store.steampowered.com/app/3141580/_/,
+Double Dragon Trilogy,15 янв. 2015 г.,240 руб.,https://store.steampowered.com/app/314150/Double_Dragon_Trilogy/,
+Euro Fishing,2 ноя. 2015 г.,360 руб.,https://store.steampowered.com/app/314520/Euro_Fishing/,
+,,,https://store.steampowered.com/app/314650/SpaceEngine/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3147870/In_My_Head/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+Симулятор Скуфа,5 сен. 2024 г.,42 руб.,https://store.steampowered.com/app/3144640/Simulyator_Skufa/,
+,,,https://store.steampowered.com/app/3150970/Party_Madness/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3154590/100_hidden_Cats__Pirates/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3157310/Tales_of_the_Forgotten/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3160280/HALLOWEEN_girls/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3158270/Football_Life_Simulator/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+Escape from Duckov 逃离鸭科夫,16 окт. 2025 г.,689 руб.,https://store.steampowered.com/app/3167020/Escape_from_Duckov/,
+Find Cats 3 旅行猫咪,9 янв. 2025 г.,60 руб.,https://store.steampowered.com/app/3166850/Find_Cats_3/,
+Across the Abyss: Voidborn,28 окт. 2024 г.,125 руб.,https://store.steampowered.com/app/3166200/Across_the_Abyss_Voidborn/,

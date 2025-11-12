@@ -1,0 +1,64 @@
+title,release,price,url,error
+Dwarf Journey,5 мар. 2021 г.,385 руб.,https://store.steampowered.com/app/1501410/Dwarf_Journey/,
+MyHouseMyRules,5 мар. 2021 г.,40 руб.,https://store.steampowered.com/app/1498220/MyHouseMyRules/,
+Tank Squad,8 мая. 2025 г.,799 руб.,https://store.steampowered.com/app/1498130/Tank_Squad/,
+Cafe Owner Simulator,5 дек. 2022 г.,170 руб.,https://store.steampowered.com/app/1498140/Cafe_Owner_Simulator/,
+Nova Lands,22 июн. 2023 г.,349 руб.,https://store.steampowered.com/app/1501610/Nova_Lands/,
+The Mermaid of Zennor,8 апр. 2021 г.,193 руб.,https://store.steampowered.com/app/1502520/The_Mermaid_of_Zennor/,
+Escape Machine City: Airborne,3 мар. 2021 г.,200 руб.,https://store.steampowered.com/app/1502800/Escape_Machine_City_Airborne/,
+From Space,3 ноя. 2022 г.,149 руб.,https://store.steampowered.com/app/1502190/From_Space/,
+Neon Parkour,11 янв. 2021 г.,28 руб.,https://store.steampowered.com/app/1502630/Neon_Parkour/,
+Find Yourself,21 фев. 2021 г.,175 руб.,https://store.steampowered.com/app/1504740/Find_Yourself/,
+Temporal Purge: Z,26 мая. 2025 г.,249 руб.,https://store.steampowered.com/app/1503400/Temporal_Purge_Z/,
+Ascendum,12 апр. 2023 г.,520 руб.,https://store.steampowered.com/app/1504090/Ascendum/,
+Paper Planet,21 авг. 2023 г.,360 руб.,https://store.steampowered.com/app/1504250/Paper_Planet/,
+Horror Squad,26 фев. 2021 г.,200 руб.,https://store.steampowered.com/app/1506620/Horror_Squad/,
+Machinika: Museum,23 мар. 2021 г.,249 руб.,https://store.steampowered.com/app/1507190/Machinika_Museum/,
+Neon,26 фев. 2021 г.,210 руб.,https://store.steampowered.com/app/1505460/Neon/,
+Coloring Book for Kids,8 мар. 2021 г.,Бесплатно,https://store.steampowered.com/app/1507410/Coloring_Book_for_Kids/,
+Kaiju Wars,28 апр. 2022 г.,435 руб.,https://store.steampowered.com/app/1508400/Kaiju_Wars/,
+Kemono Mahjong,11 янв. 2021 г.,133 руб.,https://store.steampowered.com/app/1508430/Kemono_Mahjong/,
+Circle Empires Tactics,7 апр. 2022 г.,590 руб.,https://store.steampowered.com/app/1515260/Circle_Empires_Tactics/,
+CYBER EMOJI TALE 2099,3 мар. 2021 г.,29 руб.,https://store.steampowered.com/app/1510930/CYBER_EMOJI_TALE_2099/,
+Capcom Arcade Stadium,24 мая. 2021 г.,N/A,https://store.steampowered.com/app/1515950/Capcom_Arcade_Stadium/,
+Alien Marauder,17 ноя. 2021 г.,435 руб.,https://store.steampowered.com/app/1516750/Alien_Marauder/,
+HALF DEAD 3,9 сен. 2022 г.,129 руб.,https://store.steampowered.com/app/1520380/HALF_DEAD_3/,
+Gaia Project,31 мая. 2021 г.,465 руб.,https://store.steampowered.com/app/1516400/Gaia_Project/,
+Fast Food Manager,16 апр. 2021 г.,750 руб.,https://store.steampowered.com/app/1519790/Fast_Food_Manager/,
+Grim Realms,16 мар. 2024 г.,550 руб.,https://store.steampowered.com/app/1522280/Grim_Realms/,
+Mon Bazou,16 дек. 2021 г.,369 руб.,https://store.steampowered.com/app/1520370/Mon_Bazou/,
+Supraland Six Inches Under,14 янв. 2022 г.,380 руб.,https://store.steampowered.com/app/1522870/Supraland_Six_Inches_Under/,
+Transiruby,9 дек. 2021 г.,360 руб.,https://store.steampowered.com/app/1522930/Transiruby/,
+KeepUp Survival,5 мар. 2024 г.,550 руб.,https://store.steampowered.com/app/1524630/KeepUp_Survival/,
+Stargate: Timekeepers,23 янв. 2024 г.,1100 руб.,https://store.steampowered.com/app/1523650/Stargate_Timekeepers/,
+Exodus Borealis,18 ноя. 2021 г.,710 руб.,https://store.steampowered.com/app/1528810/Exodus_Borealis/,
+Chess Brain: Dark Troops,4 фев. 2021 г.,125 руб.,https://store.steampowered.com/app/1524690/Chess_Brain_Dark_Troops/,
+Wartales,12 апр. 2023 г.,480 руб.,https://store.steampowered.com/app/1527950/Wartales/,
+Tavern Master,16 ноя. 2021 г.,360 руб.,https://store.steampowered.com/app/1525700/Tavern_Master/,
+,,,https://store.steampowered.com/app/1530760/Kajgrad/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+ComPressure,3 мая. 2021 г.,133 руб.,https://store.steampowered.com/app/1528120/ComPressure/,
+Sovietpunk: Chapter one,2 апр. 2021 г.,21 руб.,https://store.steampowered.com/app/1534550/Sovietpunk_Chapter_one/,
+STRAY KITTEN,19 фев. 2021 г.,21 руб.,https://store.steampowered.com/app/1534520/STRAY_KITTEN/,

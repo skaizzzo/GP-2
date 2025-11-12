@@ -1,0 +1,133 @@
+title,release,price,url,error
+Aquanima,9 ноя. 2025 г.,192 руб.,https://store.steampowered.com/app/3669750/Aquanima/,
+Noir Lords,8 авг. 2025 г.,379 руб.,https://store.steampowered.com/app/3669690/Noir_Lords/,
+BACKROOM LOOP,8 мая. 2025 г.,200 руб.,https://store.steampowered.com/app/3672540/BACKROOM_LOOP/,
+Dead Oil,17 окт. 2025 г.,200 руб.,https://store.steampowered.com/app/3669370/Dead_Oil/,
+Godzilla x Kong: Titan Chasers,30 сен. 2025 г.,Бесплатно,https://store.steampowered.com/app/3670140/Godzilla_x_Kong_Titan_Chasers/,
+Heroic Aegisio: Origins,7 сен. 2025 г.,550 руб.,https://store.steampowered.com/app/3675930/Heroic_Aegisio_Origins/,
+Prison Escape Simulator: Dig Out,25 июл. 2025 г.,180 руб.,https://store.steampowered.com/app/3672720/Prison_Escape_Simulator_Dig_Out/,
+Hook,25 янв. 2015 г.,82 руб.,https://store.steampowered.com/app/367580/Hook/,
+MEGADEKA,21 мая. 2025 г.,160 руб.,https://store.steampowered.com/app/3679390/MEGADEKA/,
+THE LAST TRAIN: Baquedano,14 мая. 2025 г.,165 руб.,https://store.steampowered.com/app/3676960/THE_LAST_TRAIN_Baquedano/,
+Hidden Cats: Rome,14 мая. 2025 г.,99 руб.,https://store.steampowered.com/app/3681940/Hidden_Cats_Rome/,
+Bioprototype,19 мая. 2025 г.,200 руб.,https://store.steampowered.com/app/3689520/Bioprototype/,
+Anomalous Railroad Crossing | 異変踏切,6 авг. 2025 г.,240 руб.,https://store.steampowered.com/app/3691680/Anomalous_Railroad_Crossing/,
+Сим Больница(Sim Hospital),4 ноя. 2025 г.,256 руб.,https://store.steampowered.com/app/3694050/Sim_BolniczaSim_Hospital/,
+9 Clues 2: The Ward,23 июл. 2015 г.,550 руб.,https://store.steampowered.com/app/369420/9_Clues_2_The_Ward/,
+Uncanny Tales: 1992,10 сен. 2025 г.,200 руб.,https://store.steampowered.com/app/3686940/Uncanny_Tales_1992/,
+Polyball,1 дек. 2017 г.,165 руб.,https://store.steampowered.com/app/368180/Polyball/,
+Immortal: Unchained,7 сен. 2018 г.,269 руб.,https://store.steampowered.com/app/369440/Immortal_Unchained/,
+Growmancer,23 июн. 2025 г.,200 руб.,https://store.steampowered.com/app/3690720/Growmancer/,
+Haunted Room : 205,21 авг. 2025 г.,200 руб.,https://store.steampowered.com/app/3694590/Haunted_Room__205/,
+Endzone Girls: Девушки последней линии обороны,23 мая. 2025 г.,320 руб.,https://store.steampowered.com/app/3701980/Endzone_Girls_Devushki_poslednej_linii_oborony/,
+Mini Painter,24 июл. 2025 г.,165 руб.,https://store.steampowered.com/app/3694840/Mini_Painter/,
+Sparkle 2,1 июн. 2015 г.,320 руб.,https://store.steampowered.com/app/370550/Sparkle_2/,
+Ranch Farm and Store Simulator,24 июн. 2025 г.,367 руб.,https://store.steampowered.com/app/3706960/Ranch_Farm_and_Store_Simulator/,
+,,,https://store.steampowered.com/app/370920/Cosmophony/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3714790/Simulyator_russkoj_derevni_2/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3715440/Joe_and_the_Lost_Pixels/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/372000/Tree_of_Savior_English_Ver/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+Yollen,18 авг. 2025 г.,165 руб.,https://store.steampowered.com/app/3721490/Yollen/,
+Anomaly Rooms,10 июл. 2025 г.,240 руб.,https://store.steampowered.com/app/3725070/Anomaly_Rooms/,
+Cozy Crunch,3 сен. 2025 г.,100 руб.,https://store.steampowered.com/app/3721660/Cozy_Crunch/,
+New York Mysteries: Secrets of the Mafia Collector's Edition,22 мая. 2015 г.,385 руб.,https://store.steampowered.com/app/372930/New_York_Mysteries_Secrets_of_the_Mafia_Collectors_Edition/,
+Leaving Home,16 июн. 2025 г.,165 руб.,https://store.steampowered.com/app/3726770/Leaving_Home/,
+Kung Fury: Street Rage - Ultimate Edition,28 мая. 2015 г.,710 руб.,https://store.steampowered.com/app/373180/Kung_Fury_Street_Rage__Ultimate_Edition/,
+ROOM FOOTBALL - Dark Place,11 июн. 2025 г.,1900 руб.,https://store.steampowered.com/app/3746520/ROOM_FOOTBALL__Dark_Place/,
+Hired Ops,13 апр. 2021 г.,Бесплатные,https://store.steampowered.com/app/374280/Hired_Ops/,
+Virginia,22 сен. 2016 г.,249 руб.,https://store.steampowered.com/app/374030/Virginia/,
+Anunaki Clicker,14 июл. 2025 г.,42 руб.,https://store.steampowered.com/app/3752500/Anunaki_Clicker/,
+PULMO,27 сен. 2025 г.,125 руб.,https://store.steampowered.com/app/3752540/PULMO/,
+Irbet Tong,28 июл. 2025 г.,250 руб.,https://store.steampowered.com/app/3753770/Irbet_Tong/,

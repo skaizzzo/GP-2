@@ -1,0 +1,218 @@
+title,release,price,url,error
+Cube Escape: Paradox,20 сен. 2018 г.,Бесплатно,https://store.steampowered.com/app/909080/Cube_Escape_Paradox/,
+Talisman: Digital 5th Edition,14 ноя. 2024 г.,1100 руб.,https://store.steampowered.com/app/908060/Talisman_Digital_5th_Edition/,
+Bunny Minesweeper,10 авг. 2018 г.,27 руб.,https://store.steampowered.com/app/900790/Bunny_Minesweeper/,
+Indian Summer,20 ноя. 2018 г.,175 руб.,https://store.steampowered.com/app/900380/Indian_Summer/,
+Touch Type Tale - Strategic Typing,4 ноя. 2024 г.,426 руб.,https://store.steampowered.com/app/909470/Touch_Type_Tale__Strategic_Typing/,
+The End of the Sun,29 янв. 2025 г.,999 руб.,https://store.steampowered.com/app/912840/The_End_of_the_Sun/,
+Songbird Symphony,25 июл. 2019 г.,155 руб.,https://store.steampowered.com/app/909820/Songbird_Symphony/,
+Iron Front: Digital War Edition,25 мая. 2012 г.,349 руб.,https://store.steampowered.com/app/91330/Iron_Front_Digital_War_Edition/,
+Post Apocalyptic Mayhem,17 мар. 2011 г.,249 руб.,https://store.steampowered.com/app/91900/Post_Apocalyptic_Mayhem/,
+Final Upgrade,6 дек. 2022 г.,435 руб.,https://store.steampowered.com/app/919260/Final_Upgrade/,
+,,,https://store.steampowered.com/app/916160/Dreamwalker_Never_Fall_Asleep/,"Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=142.0.7444.134)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65bdee228
+	0x7ff65bddeba9
+	0x7ff65bde09d7
+	0x7ff65bddf160
+	0x7ff65bdde917
+	0x7ff65bdde5db
+	0x7ff65bddc145
+	0x7ff65bddc9dc
+	0x7ff65bdf59ea
+	0x7ff65be9c8be
+	0x7ff65be72b0a
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/917840/Wintermoor_Tactics_Club/,"Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=142.0.7444.134)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65bdee228
+	0x7ff65bddeba9
+	0x7ff65bde09d7
+	0x7ff65bddf160
+	0x7ff65bdde917
+	0x7ff65bdde5db
+	0x7ff65bddc145
+	0x7ff65bddc9dc
+	0x7ff65bdf59ea
+	0x7ff65be9c8be
+	0x7ff65be72b0a
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+Steel Division 2,20 июн. 2019 г.,2499 руб.,https://store.steampowered.com/app/919640/Steel_Division_2/,
+,,,https://store.steampowered.com/app/922050/DOOMBLADE/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/922530/Bestiary_of_Sigillum/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/920520/Sexy_Jigsaw/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/923100/Moduwar/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+Darkness and Flame: The Dark Side Collector's Edition,11 апр. 2019 г.,385 руб.,https://store.steampowered.com/app/928480/Darkness_and_Flame_The_Dark_Side_Collectors_Edition/,
+SpaceChem,2 мар. 2011 г.,385 руб.,https://store.steampowered.com/app/92800/SpaceChem/,
+Orion Sandbox Enhanced,21 сен. 2018 г.,61 руб.,https://store.steampowered.com/app/929670/Orion_Sandbox_Enhanced/,
+The Uncertain: Light At The End,8 окт. 2020 г.,38 руб.,https://store.steampowered.com/app/925570/The_Uncertain_Light_At_The_End/,
+Iron Marines,15 мая. 2019 г.,360 руб.,https://store.steampowered.com/app/931280/Iron_Marines/,
+IMMURE,8 мая. 2019 г.,Бесплатные,https://store.steampowered.com/app/932220/IMMURE/,
+Supreme Commander,20 фев. 2007 г.,N/A,https://store.steampowered.com/app/9350/Supreme_Commander/,
+Pleasure Puzzle:Sexy Girls 趣拼拼：性感少女,1 окт. 2018 г.,42 руб.,https://store.steampowered.com/app/934540/Pleasure_PuzzleSexy_Girls/,
+Wenjia,17 окт. 2018 г.,205 руб.,https://store.steampowered.com/app/933450/Wenjia/,
+Glass Masquerade 2: Illusions,27 фев. 2019 г.,200 руб.,https://store.steampowered.com/app/935880/Glass_Masquerade_2_Illusions/,
+Counter Terrorist Agency,5 дек. 2019 г.,916 руб.,https://store.steampowered.com/app/936490/Counter_Terrorist_Agency/,
+The young mathematician: Easy difficulty,20 сен. 2018 г.,82 руб.,https://store.steampowered.com/app/935860/The_young_mathematician_Easy_difficulty/,
+Transport INC,27 авг. 2020 г.,550 руб.,https://store.steampowered.com/app/936500/Transport_INC/,
+Pleasure Puzzle:Portrait 趣拼拼：肖像画,24 сен. 2018 г.,42 руб.,https://store.steampowered.com/app/939620/Pleasure_PuzzlePortrait/,
+,,,https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+FIA European Truck Racing Championship,18 июл. 2019 г.,59 руб.,https://store.steampowered.com/app/940580/FIA_European_Truck_Racing_Championship/,
+Minoria,27 авг. 2019 г.,710 руб.,https://store.steampowered.com/app/940910/Minoria/,
+Infinitode 2 - Infinite Tower Defense,30 апр. 2021 г.,Бесплатно,https://store.steampowered.com/app/937310/Infinitode_2__Infinite_Tower_Defense/,
+S.W.I.N.E. HD Remaster,23 мая. 2019 г.,259 руб.,https://store.steampowered.com/app/944010/SWINE_HD_Remaster/,
+Timberman VS,12 окт. 2018 г.,61 руб.,https://store.steampowered.com/app/943380/Timberman_VS/,
+Pode,3 апр. 2020 г.,435 руб.,https://store.steampowered.com/app/944080/Pode/,
+JUMPGRID,12 фев. 2019 г.,200 руб.,https://store.steampowered.com/app/942060/JUMPGRID/,
+Ravva and the Cyclops Curse,15 янв. 2019 г.,82 руб.,https://store.steampowered.com/app/945340/Ravva_and_the_Cyclops_Curse/,

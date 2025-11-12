@@ -1,0 +1,156 @@
+title,release,price,url,error
+Lost Estate Agent,8 июн. 2024 г.,77 руб.,https://store.steampowered.com/app/2999680/Lost_Estate_Agent/,
+Cain × Nica,14 ноя. 2024 г.,300 руб.,https://store.steampowered.com/app/3000310/Cain_x_Nica/,
+Wool at the Gates,20 мая. 2025 г.,280 руб.,https://store.steampowered.com/app/2994990/Wool_at_the_Gates/,
+Konfronto,13 мая. 2025 г.,495 руб.,https://store.steampowered.com/app/2994150/Konfronto/,
+Tengami,15 янв. 2015 г.,280 руб.,https://store.steampowered.com/app/299680/Tengami/,
+REPOSE,14 апр. 2025 г.,320 руб.,https://store.steampowered.com/app/3002510/REPOSE/,
+[Bober Bros] It's Just A Prank,21 июн. 2024 г.,125 руб.,https://store.steampowered.com/app/3001730/Bober_Bros_Its_Just_A_Prank/,
+Night Project,14 дек. 2024 г.,Бесплатно,https://store.steampowered.com/app/3006100/Night_Project/,
+Bella Wants Blood,24 июл. 2024 г.,200 руб.,https://store.steampowered.com/app/3007660/Bella_Wants_Blood/,
+Day of the Shell,29 июл. 2025 г.,357 руб.,https://store.steampowered.com/app/3008340/Day_of_the_Shell/,
+3D PUZZLE - Hospital 4,26 июн. 2024 г.,6500 руб.,https://store.steampowered.com/app/3009820/3D_PUZZLE__Hospital_4/,
+3D PUZZLE - Underground,26 июн. 2024 г.,6500 руб.,https://store.steampowered.com/app/3009780/3D_PUZZLE__Underground/,
+Чел я просто хочу домой,12 июл. 2024 г.,125 руб.,https://store.steampowered.com/app/3010070/CHel_ya_prosto_xochu_domoj/,
+JUJU,10 дек. 2014 г.,259 руб.,https://store.steampowered.com/app/300840/JUJU/,
+CRUELTY,17 июн. 2024 г.,280 руб.,https://store.steampowered.com/app/3011850/CRUELTY/,
+Backroom Company,29 июл. 2025 г.,385 руб.,https://store.steampowered.com/app/3010460/Backroom_Company/,
+Iron Village,24 мар. 2025 г.,320 руб.,https://store.steampowered.com/app/3011060/Iron_Village/,
+Chicken Invaders 4,6 июн. 2014 г.,240 руб.,https://store.steampowered.com/app/301300/Chicken_Invaders_4/,
+Skin Deep,30 апр. 2025 г.,849 руб.,https://store.steampowered.com/app/301280/Skin_Deep/,
+MIGLORN,16 дек. 2024 г.,385 руб.,https://store.steampowered.com/app/3013190/MIGLORN/,
+BrokenLore: LOW,20 фев. 2025 г.,350 руб.,https://store.steampowered.com/app/3014520/BrokenLore_LOW/,
+Echoes of Dread,15 ноя. 2024 г.,240 руб.,https://store.steampowered.com/app/3015350/Echoes_of_Dread/,
+100 Egypt Cats,17 апр. 2025 г.,49 руб.,https://store.steampowered.com/app/3017380/100_Egypt_Cats/,
+Brink of Consciousness: Dorian Gray Syndrome Collector's Edition,1 июл. 2012 г.,249 руб.,https://store.steampowered.com/app/302130/Brink_of_Consciousness_Dorian_Gray_Syndrome_Collectors_Edition/,
+Trucks & Trailers,17 июн. 2011 г.,312 руб.,https://store.steampowered.com/app/302060/Trucks__Trailers/,
+Submerged,3 авг. 2015 г.,710 руб.,https://store.steampowered.com/app/301860/Submerged/,
+Mobiles Tycoon,15 июл. 2024 г.,240 руб.,https://store.steampowered.com/app/3022320/Mobiles_Tycoon/,
+Stronghold Crusader: Definitive Edition,15 июл. 2025 г.,710 руб.,https://store.steampowered.com/app/3024040/Stronghold_Crusader_Definitive_Edition/,
+Battle Mages,27 ноя. 2003 г.,99 руб.,https://store.steampowered.com/app/302470/Battle_Mages/,
+Hidden Wings and Paws,7 ноя. 2024 г.,22 руб.,https://store.steampowered.com/app/3024840/Hidden_Wings_and_Paws/,
+Midnight Swamp,9 окт. 2025 г.,385 руб.,https://store.steampowered.com/app/3025310/Midnight_Swamp/,
+Oceanhorn: Подземелье Хроноса,26 июн. 2025 г.,350 руб.,https://store.steampowered.com/app/3025560/Oceanhorn_Podzemele_Xronosa/,
+ГОООООООЛ!,10 окт. 2024 г.,96 руб.,https://store.steampowered.com/app/3024540/GOOOOOOOL/,
+,,,https://store.steampowered.com/app/302670/Call_to_Arms/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+Demon Slayer,20 июн. 2024 г.,950 руб.,https://store.steampowered.com/app/3025800/Demon_Slayer/,
+,,,https://store.steampowered.com/app/3028290/Fck_the_HELL_out/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3026770/Hunt_Me/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3027970/Neon_Phonk_Robots/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+,,,https://store.steampowered.com/app/3032020/Cast__Spell/,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".apphub_AppName""}
+  (Session info: chrome=142.0.7444.134); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65c30a235
+	0x7ff65c062650
+	0x7ff65bdf16dd
+	0x7ff65be4a27e
+	0x7ff65be4a58c
+	0x7ff65be9ed77
+	0x7ff65be9baba
+	0x7ff65be3b0ed
+	0x7ff65be3bf63
+	0x7ff65c335d60
+	0x7ff65c32fe8a
+	0x7ff65c351005
+	0x7ff65c07d73e
+	0x7ff65c084e3f
+	0x7ff65c06b7e4
+	0x7ff65c06b99f
+	0x7ff65c051908
+	0x7ff932e87374
+	0x7ff933f3cc91
+"
+LEVEL UP 80,20 июн. 2024 г.,1300 руб.,https://store.steampowered.com/app/3032580/LEVEL_UP_80/,
